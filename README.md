@@ -1,6 +1,8 @@
 # perfume1
 Automatically exported from code.google.com/p/perfume1
 
+I DO NOT OWN ANY FILE(S) AND/OR CODE CONTAINED IN THIS REPOSITORY>
+
  This project was transferred to GitHub as Google Code was shutting down, and I wanted to preserve this project and the original work of the author(s). This was done only becuase this project seemed inactive for quite a while. No copyright infringement is or was intended, and no files and/or code have been edited and/or deleted and/or created.
  
 If the author is reading this, I have transferred your project to GitHub as Google Code was shutting down
@@ -11,4 +13,4 @@ No copyright infringement is/was intended.
 Please contact me if do not want your project hosted on this account,
 I shall promptly delete the repository, without question, provided you are (one of) the original author(s).
 
-ORIGINAL AUTHOR - Sedna.
+ORIGINAL AUTHOR - Sedna (As per the .xml file found in the downloads branch/section of the original project hosted at Google Code).
